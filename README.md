@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer | TypeScript • React • Node.js | Figma → Code
 
-[![Portfolio]((https://portfolio0488-eta.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-ff6b6b?style=for-the-badge)](https://portfolio0488-eta.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-No12ah--a-181717?style=for-the-badge&logo=github)](https://github.com/No12ah-a)
 
 </div>

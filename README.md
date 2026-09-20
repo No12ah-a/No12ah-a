@@ -47,6 +47,12 @@ I'm a **Full Stack Web Developer** passionate about building clean, performant, 
 
 ---
 
+## 🏆 Certifications
+- **Selenium 101** — TestMu AI (formerly LambdaTest) — Certificate ID: S101-AT9TAW — Sep 2026
+  ![Selenium 101 Certificate](https://www.testmuai.com/certified/S101-AT9TAW/)
+
+---
+
 ## 📌 Pinned Projects
 
 ### 📚 [LMS Fullstack](https://github.com/No12ah-a/lms-fullstack)

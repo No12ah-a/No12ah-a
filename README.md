@@ -47,9 +47,7 @@ I'm a **Full Stack Web Developer** passionate about building clean, performant, 
 
 ---
 
-## 🏆 Certifications
-- **Selenium 101** — TestMu AI (formerly LambdaTest) — Certificate ID: S101-AT9TAW — Sep 2026
-  ![Selenium 101 Certificate](https://www.testmuai.com/certified/S101-AT9TAW/)
+## 🏆 Certifications [![Selenium 101 Certificate](S101-AT9TAW.png)](https://www.testmuai.com/certified/S101-AT9TAW/) **Selenium 101** — TestMu AI (formerly LambdaTest) Credential ID: S101-AT9TAW | [Verify Certificate](https://www.testmuai.com/certified/S101-AT9TAW/) This makes the certificate image itself clickable, taking visitors straight to the public verification page.
 
 ---
 

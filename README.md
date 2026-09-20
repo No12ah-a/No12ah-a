@@ -19,7 +19,7 @@ I'm a **Full Stack Web Developer** passionate about building clean, performant, 
 - 🌱 Always learning — currently exploring advanced **TypeScript patterns** & **Next.js App Router**
 - 💡 I love the full journey: design → development → deployment
 - 🎨 Design-first mindset with strong attention to detail
-- 📍 Based in Coimbatore, India
+- 📍 Based in Tamil Nadu, India
 
 ---
 
